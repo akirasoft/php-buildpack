@@ -26,7 +26,7 @@ _log = logging.getLogger('dynatrace')
 
 
 DEFAULTS = {
-    'DYNATRACE_HOST': '192.168.1.44',
+    'DYNATRACE_HOST': 'www.akirasoft.com',
     'DYNATRACE_VERSION': '6.2.0.1239',
     'DYNATRACE_PACKAGE': 'dynatrace-wsagent-{DYNATRACE_VERSION}-linux-x64.tar.gz',
     'DYNATRACE_DOWNLOAD_URL': 'http://{DYNATRACE_HOST}/cf/'
