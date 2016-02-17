@@ -23,7 +23,7 @@ import logging
 
 
 _log = logging.getLogger('dynatrace')
-https://s3.amazonaws.com/perform2015-elk-hotday/dynatrace-wsagent-6.2.0.1239-linux-x64.tar.gz
+#https://s3.amazonaws.com/perform2015-elk-hotday/dynatrace-wsagent-6.2.0.1239-linux-x64.tar.gz
 
 DEFAULTS = {
     'DYNATRACE_HOST': 's3.amazonaws.com',
