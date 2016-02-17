@@ -31,7 +31,7 @@ url_to_dependency_map:
 dependencies:
   - name: dynatrace
     version: 6.2.0.1239
-    uri: http://www.akirasoft.com/cf/dynatrace-wsagent-6.2.0.1239-linux-x64.tar.gz
+    uri: https://s3.amazonaws.com/perform2015-elk-hotday/dynatrace-wsagent-6.2.0.1239-linux-x64.tar.gz
     cf_stacks:
       - cflinuxfs2
     md5: ecf961e856e3512207e1930900f009c7
